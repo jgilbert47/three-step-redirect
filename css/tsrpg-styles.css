@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+}
+
+.tsrpg-field-group {
+    vertical-align: top;
+    padding: 7px 0;
+}
+
+.tsrpg-field-group abbr {
+    text-decoration: none;
+}
+
+.tsrpg-field-group input {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #aaa;
+    line-height: 1;
+}
+
+.tsrpg-field-group select {
+    padding: 10px;
+    margin: 0;
+    font-size: 1rem;
+    width: 100%;
+    border: 1px solid #aaa;
+}
+
+.tsrpg-field-group.first {
+    padding-left: 0;
+}
+
+.tsrpg-field-group.last {
+    padding-right: 0;
+}
+
+#tsrpg-cc-exp-month {
+    width: 49%;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+#tsrpg-cc-exp-year {
+    width: 49%;
+    display: inline-block;
+    padding-left: 5px;
+    float: right;
+}
+
+label {
+    display: block;
+}
+
+#billing-cvv {
+    width: 85px;
+}
+
+.tsr-payment-form-fields {
+    margin-bottom: 15px;
+}
+
+#tsr-payment-form {
+    max-width: 500px;
+    margin-bottom: 30px;
+}
+
+.required-field-invalid {
+    border:1px solid red;
+}
+
+.required-field-validated {
+    border:1px solid green;
+}
