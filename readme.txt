@@ -15,7 +15,7 @@ Securely accept credit cards directly on your WooCommerce store using your payme
  
 Securely Accept Credit Cards in WooCommerce with the Three Step Redirect API Payment Gateway
  
-The Three Step Redirect API Payment Gateway Woocommerce extension uses a secure three step redirect API used by many major payment processing merchants, such as First Direct Financial, Network Merchant Inc (NMI), and many more. By using this Wordpress plugin you will be able to accept all major credit and debit cards. This allows you to keep your customers on your site, providing a seamless chackout process while ensuring secure data transmission by keeping your site from seeing, touching, handling, transmitting and even storing any sensitive information.
+The Three Step Redirect API Payment Gateway Woocommerce extension uses a secure three step redirect API leveraged by many major payment processing merchants, such as First Direct Financial, Network Merchant Inc (NMI), and many more. By using this Wordpress plugin you will be able to accept all major credit and debit cards. This allows you to keep your customers on your site, providing a seamless chackout process while ensuring secure data transmission by keeping your site from seeing, touching, handling, transmitting and even storing any sensitive information.
  
 ![Alt](/screenshot-1.png "Enter your payment details")
  
